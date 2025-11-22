@@ -1,0 +1,15 @@
+{
+  "region": "ap-seoul",
+  "kingdom_id": 1234,
+  "secret_key": "lm2025iggtrackx9",
+  "device_id": "android_test_001",
+  "token": "",
+  "notes": {
+    "regions": [
+      "ap-seoul (Asia/VN)",
+      "eu-frankfurt (Europe)",
+      "na-newyork (North America)"
+    ],
+    "warning": "SECRET_KEY cần được reverse engineering từ game client. Key mẫu có thể không hoạt động."
+  }
+}
